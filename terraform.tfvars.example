@@ -1,0 +1,7 @@
+region        = "us-west-1"
+access_key    = "YOUR_ACCESS_KEY"
+secret_key    = "YOUR_SECRET_KEY"
+ami           = "ami-12345678"
+instance_type = "t2.micro"
+db_username   = "your_db_username"
+db_password   = "your_db_password"
